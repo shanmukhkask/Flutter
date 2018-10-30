@@ -19,8 +19,9 @@ class Home extends StatelessWidget{
           style: TextStyle(
               decoration: TextDecoration.none,
               fontSize: 75.0,
-              fontFamily: 'Raleway',
-              fontWeight: FontWeight.w700,
+              fontFamily: 'Roboto',
+              fontWeight: FontWeight.w200,
+             // fontStyle: FontStyle.italic,
               color: Colors.green
           ),
         ),
